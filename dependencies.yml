@@ -1,3 +1,4 @@
 name: flights-service
 dependencies:
     - notification-service
+    - data-service
